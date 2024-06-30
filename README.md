@@ -1,5 +1,7 @@
 # Python for Data Analysis, 3rd Edition
 
+This is the file that was on my desktop and uploaded to GitHub.com
+
 Materials and IPython notebooks for "Python for Data Analysis, 3rd
 Edition" by Wes McKinney, published by O'Reilly Media. Book content
 including updates and errata fixes can be [found for free on my
